@@ -1,0 +1,12 @@
+{
+    "name": "thiago/phpwebpconverter",
+    "authors": [
+        {
+            "name": "tsalesproductions",
+            "email": "padilhauch@gmail.com"
+        }
+    ],
+    "require": {
+        "gumlet/php-image-resize": "^2.0"
+    }
+}
